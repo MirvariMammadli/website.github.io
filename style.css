@@ -12,3 +12,15 @@ body {
 a:hover{
     font-size: 110%;
 }
+
+.block{
+    display: block;
+}
+
+.removed{
+    display: none;
+}
+
+.hidden{
+    visibility: hidden;
+}
